@@ -1,0 +1,11 @@
+.banner {
+	width: 700px;
+	margin: 0px auto;
+	background-image: url(../../images/balle.jpg);
+	padding: 10px 10px;
+	background-size: cover;
+}
+
+.banner h1 {
+	font-size: 40px;
+}

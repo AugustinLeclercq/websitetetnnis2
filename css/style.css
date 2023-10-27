@@ -1,0 +1,43 @@
+
+@import url("component/container.css");
+@import url("component/img.css");
+@import url("component/button.css");
+@import url("component/banner.css");
+@import url("component/banner-top.css");
+@import url("component/cards.css");
+
+
+body {
+	font-family:'roboto', sans-serif;
+	font-size: 30px;
+	padding: 0px 0px;
+}
+h1, h2,h3 {
+	font-family:'roboto', sans-serif;
+	font-weight: bold;
+	padding: 30px;
+}
+h2,h3 {
+	font-size: 25px;
+	color: white;
+}
+h2 {
+	text-decoration: underline;
+}
+h1 {
+	font-size: 30px;
+	color: darkgreen;
+}
+a {
+	text-decoration: none;
+}
+
+p {
+	background-color: lightgrey;
+	font-size: 20px;
+	padding: 30px 30px;
+}
+h4 {
+	font-size: 20px;
+	color: lightgrey;
+	}
